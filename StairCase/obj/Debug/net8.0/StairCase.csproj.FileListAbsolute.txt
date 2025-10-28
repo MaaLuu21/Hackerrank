@@ -1,0 +1,14 @@
+F:\ESTUDOS\C#\HackerRank\StairCase\bin\Debug\net8.0\StairCase.exe
+F:\ESTUDOS\C#\HackerRank\StairCase\bin\Debug\net8.0\StairCase.deps.json
+F:\ESTUDOS\C#\HackerRank\StairCase\bin\Debug\net8.0\StairCase.runtimeconfig.json
+F:\ESTUDOS\C#\HackerRank\StairCase\bin\Debug\net8.0\StairCase.dll
+F:\ESTUDOS\C#\HackerRank\StairCase\bin\Debug\net8.0\StairCase.pdb
+F:\ESTUDOS\C#\HackerRank\StairCase\obj\Debug\net8.0\StairCase.GeneratedMSBuildEditorConfig.editorconfig
+F:\ESTUDOS\C#\HackerRank\StairCase\obj\Debug\net8.0\StairCase.AssemblyInfoInputs.cache
+F:\ESTUDOS\C#\HackerRank\StairCase\obj\Debug\net8.0\StairCase.AssemblyInfo.cs
+F:\ESTUDOS\C#\HackerRank\StairCase\obj\Debug\net8.0\StairCase.csproj.CoreCompileInputs.cache
+F:\ESTUDOS\C#\HackerRank\StairCase\obj\Debug\net8.0\StairCase.dll
+F:\ESTUDOS\C#\HackerRank\StairCase\obj\Debug\net8.0\refint\StairCase.dll
+F:\ESTUDOS\C#\HackerRank\StairCase\obj\Debug\net8.0\StairCase.pdb
+F:\ESTUDOS\C#\HackerRank\StairCase\obj\Debug\net8.0\StairCase.genruntimeconfig.cache
+F:\ESTUDOS\C#\HackerRank\StairCase\obj\Debug\net8.0\ref\StairCase.dll

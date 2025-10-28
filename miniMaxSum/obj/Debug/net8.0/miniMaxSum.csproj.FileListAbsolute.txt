@@ -1,0 +1,14 @@
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\bin\Debug\net8.0\miniMaxSum.exe
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\bin\Debug\net8.0\miniMaxSum.deps.json
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\bin\Debug\net8.0\miniMaxSum.runtimeconfig.json
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\bin\Debug\net8.0\miniMaxSum.dll
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\bin\Debug\net8.0\miniMaxSum.pdb
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\obj\Debug\net8.0\miniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\obj\Debug\net8.0\miniMaxSum.AssemblyInfoInputs.cache
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\obj\Debug\net8.0\miniMaxSum.AssemblyInfo.cs
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\obj\Debug\net8.0\miniMaxSum.csproj.CoreCompileInputs.cache
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\obj\Debug\net8.0\miniMaxSum.dll
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\obj\Debug\net8.0\refint\miniMaxSum.dll
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\obj\Debug\net8.0\miniMaxSum.pdb
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\obj\Debug\net8.0\miniMaxSum.genruntimeconfig.cache
+F:\ESTUDOS\C#\HackerRank\miniMaxSum\obj\Debug\net8.0\ref\miniMaxSum.dll
