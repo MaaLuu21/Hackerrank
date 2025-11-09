@@ -1,0 +1,15 @@
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\bin\Debug\net8.0\birthdayCakeCandles.exe
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\bin\Debug\net8.0\birthdayCakeCandles.deps.json
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\bin\Debug\net8.0\birthdayCakeCandles.runtimeconfig.json
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\bin\Debug\net8.0\birthdayCakeCandles.dll
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\bin\Debug\net8.0\birthdayCakeCandles.pdb
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\birthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\birthdayCakeCandles.AssemblyInfoInputs.cache
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\birthdayCakeCandles.AssemblyInfo.cs
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\birthdayCakeCandles.csproj.CoreCompileInputs.cache
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\birthdayCakeCandles.sourcelink.json
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\birthdayCakeCandles.dll
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\refint\birthdayCakeCandles.dll
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\birthdayCakeCandles.pdb
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\birthdayCakeCandles.genruntimeconfig.cache
+F:\ESTUDOS\C#\HackerRank\birthdayCakeCandles\obj\Debug\net8.0\ref\birthdayCakeCandles.dll
