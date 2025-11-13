@@ -10,19 +10,39 @@
 
     public static int birthdayCakeCandles(List<int> candles)
     {
-        int tallest = 0;
+        var tallest = candles.Max();
         int count = 0;
+        var size = candles.Count;
+        var first = candles[0];
 
-
-        foreach(int candle in candles)
+       foreach(int candle in candles)
         {
-            
-            tallest = Math.Max(tallest, candle);
             if (candle == tallest)
             {
                 count++;
             }
         }
+       
+       /*
+       var max = candles[0];
+
+       for(int i = 1; i < size; i++)
+        {
+            if(candles[i] > max)
+            {
+
+                max = candles[i];
+            }
+        }
+
+        for(int i = 0; i < size; i++)
+        {
+            if(max == candles[i])
+            {
+                count++;
+            }
+        }
+       */
 
         return count;
     }
